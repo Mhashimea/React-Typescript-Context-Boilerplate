@@ -1,7 +1,7 @@
 # React Context API Boilerplate (Typescript)
 
-Technologies: 
-  React (create-react-app)
-  React Context API
-  Tailwind CSS
-  
+Technologies:\_\_
+
+- React (create-react-app)\_\_
+- React Context API\_\_
+- Tailwind CSS\_\_
