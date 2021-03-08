@@ -1,1 +1,1 @@
-# React-Typescript-Context-Boilerplate
+# React Context API Boilerplate (Typescript)
